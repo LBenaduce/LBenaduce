@@ -58,10 +58,18 @@ Built with a modular structure using JavaScript classes and integrated with a RE
 
 ---
 
-## Contact
 
-- LinkedIn: https://www.linkedin.com/in/luiz-benaduce-014740275/
-- GitHub: https://github.com/LBenaduce
+## Contact 💬
+
+[![WhatsApp US](https://img.shields.io/badge/WhatsApp-US-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/13059920833)
+[![WhatsApp BR](https://img.shields.io/badge/WhatsApp-BR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5555999357388)
+
+📱 **US:** +1 305 992 0833  
+📱 **BR:** +55 55 99935-7388  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Benaduce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-benaduce-014740275/)
+[![GitHub](https://img.shields.io/badge/GitHub-LBenaduce-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LBenaduce)
+
 
 ## 🤖 Languages & Technologies
 
@@ -80,3 +88,4 @@ Built with a modular structure using JavaScript classes and integrated with a RE
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" />
 </div>
+
