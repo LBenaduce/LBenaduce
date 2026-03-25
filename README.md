@@ -1,28 +1,25 @@
-# LBenaduce  
-# Luiz Benaduce  
+# Luiz Benaduce
 
-**Full-Stack Web Developer (Front-End Focus)** • React • JavaScript • Node.js • REST APIs  
+### Full-Stack Web Developer (Front-End Focus)
+React • JavaScript • Node.js • REST APIs
 
-Full-Stack Web Developer in training through the TripleTen Web Development Program, building responsive and API-driven web applications using modern JavaScript technologies.
+Full-Stack Web Developer trained through the **TripleTen Web Development Program**, building responsive and API-driven web applications using modern JavaScript technologies.
 
-I focus on creating scalable React interfaces, clean component architecture, and real-world REST API integration.
-
----
-
-## Summary
-
-- Strong foundation in **React**, **JavaScript (ES6+)**, **HTML5**, and **CSS3 (BEM)**
-- Experience building applications using **component-based architecture**
-- State management using **React Hooks (useState, useEffect)**
-- Integration with **REST APIs** using **fetch** and **async/await**
-- CRUD operations (GET, POST, PATCH, DELETE)
-- Modular code organization and reusable components
-- Comfortable with **Git & GitHub** workflows
-- Focus on clean code, responsive design, and UI/UX fundamentals
+My focus is on **scalable React interfaces, clean component architecture, and real-world REST API integration**.
 
 ---
 
-## Skills
+## About Me
+
+I am a **Full-Stack Web Developer with a strong Front-End focus**, passionate about creating clean, responsive, and scalable web applications.
+
+My experience includes building complete applications using **React, JavaScript, Node.js, and REST APIs**, following modern development practices such as component-based architecture, modular code organization, and Git workflows.
+
+I enjoy transforming ideas into **functional, user-friendly interfaces** and continuously improving my development skills.
+
+---
+
+## Technical Skills
 
 ### Languages & Core
 - JavaScript (ES6+)
@@ -31,85 +28,87 @@ I focus on creating scalable React interfaces, clean component architecture, and
 - JSON
 
 ### Front-End
-- React (components, props, hooks)
-- State management
-- Conditional rendering
+- React (Components, Props, Hooks)
+- State Management
+- Conditional Rendering
 - DOM Manipulation
 - Responsive Web Design
-- BEM methodology
-- Form validation
+- BEM Methodology
+- Form Validation
 
 ### Back-End Foundations
-- Node.js (fundamentals)
-- REST API integration
-- CRUD operations
+- Node.js (Fundamentals)
+- REST API Integration
+- CRUD Operations
+- Express.js
+- Authentication & Authorization Basics
 
 ### Tools
-- Git / GitHub
+- Git & GitHub
 - VS Code
 - npm
 - Vite
 - Chrome DevTools
+- Postman
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Around US — React Web Application (TripleTen Project)
-
-A responsive social-style web application built with **React** and integrated with a REST API backend.
+### Around The U.S — React Web Application
+A responsive social-style web application built with **React** and integrated with a **REST API backend**.
 
 Users can edit profile data, update avatars, create and delete cards, and like/unlike posts with real API persistence.
 
-### Key Features
-
-- Profile editing & avatar update
-- Add/remove cards with confirmation popup
-- Like/unlike system connected to API
+**Key Features:**
+- Profile editing and avatar update
+- Add and remove cards with confirmation popup
+- Like / Unlike system connected to API
 - Client-side form validation
 - Full CRUD operations via REST API
 - Component-based architecture
 - Responsive layout
 
-### Links
+**Repository:**  
+[web_project_around_react](https://github.com/LBenaduce/web_project_around_react)
 
-- React Repository:  
-  https://github.com/LBenaduce/web_project_around_react  
-
-- Live Demo:  
-  https://lbenaduce.github.io/web_project_around_react/
+**Live Demo:**  
+[View Project](https://lbenaduce.github.io/web_project_around_react/)
 
 ---
 
-## Contact 💬
+### Around The U.S — Full-Stack API Project
+A full-stack application project with front-end and back-end integration, focused on authentication, protected routes, and API communication.
 
-[![WhatsApp US](https://img.shields.io/badge/WhatsApp-US-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/13059920833)
-[![WhatsApp BR](https://img.shields.io/badge/WhatsApp-BR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5555999357388)
-
-📱 **US:** +1 305 992-0833  
-📱 **BR:** +55 55 999357388  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Benaduce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-benaduce-014740275/)  
-[![GitHub](https://img.shields.io/badge/GitHub-LBenaduce-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LBenaduce)
+**Repository:**  
+[web_project_api_full](https://github.com/LBenaduce/web_project_api_full)
 
 ---
 
-## 🤖 Languages & Technologies
+## Contact
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="VS Code" />
-</div>
+- **LinkedIn:** [luiz-benaduce-014740275](https://www.linkedin.com/in/luiz-benaduce-014740275/)
+- **GitHub:** [LBenaduce](https://github.com/LBenaduce)
+- **WhatsApp (US):** +1 305 992-0833
+- **WhatsApp (BR):** +55 55 99935-7388
+
+---
+
+## Technologies
+
+`React` `JavaScript` `HTML5` `CSS3` `Node.js` `Express.js` `Git` `GitHub` `Vite` `REST API`
+
+---
+
+## GitHub Profile Extras
+
+You can improve this profile even more by adding:
+- GitHub Stats
+- Top Languages
+- Contribution Graph
+- Tech Badges
+- Featured Repositories
+
+---
+
+> Building modern, responsive, and API-connected web experiences with clean code and continuous learning.
