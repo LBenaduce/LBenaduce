@@ -1,114 +1,130 @@
 # Luiz Benaduce
 
-### Full-Stack Web Developer (Front-End Focus)
-React • JavaScript • Node.js • REST APIs
+## Full-Stack Developer | Agronomist Engineer | React • Node.js • AgTech Intelligence
 
-Full-Stack Web Developer trained through the **TripleTen Web Development Program**, building responsive and API-driven web applications using modern JavaScript technologies.
+Building scalable web applications focused on climate intelligence, agriculture, and remote sensing technologies.
 
-My focus is on **scalable React interfaces, clean component architecture, and real-world REST API integration**.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ---
 
 ## About Me
 
-I am a **Full-Stack Web Developer with a strong Front-End focus**, passionate about creating clean, responsive, and scalable web applications.
+I am a Full-Stack Developer and Agronomist Engineer with experience combining modern web technologies and agricultural intelligence systems.
 
-My experience includes building complete applications using **React, JavaScript, Node.js, and REST APIs**, following modern development practices such as component-based architecture, modular code organization, and Git workflows.
+My background in agronomy, NDVI analysis, remote sensing, and climate data allows me to build technology solutions focused on precision agriculture and real-world environmental insights.
 
-I enjoy transforming ideas into **functional, user-friendly interfaces** and continuously improving my development skills.
+I specialize in:
+
+- React & JavaScript applications
+- REST API integration
+- Climate and agricultural analytics
+- NDVI & remote sensing concepts
+- Responsive UI/UX
+- Full-stack JavaScript development
+
+Currently developing AgriClimate Pro, a global AgTech platform focused on climate intelligence and agricultural monitoring.
 
 ---
 
-## Technical Skills
+# Featured Projects
 
-### Languages & Core
+## AgriClimate Pro
+
+Full-stack climate intelligence platform for agriculture.
+
+### Features
+
+- Real-time weather API integration
+- NDVI analytics
+- Multi-language support
+- Responsive dashboard
+- Authentication system
+- MongoDB backend
+- REST API architecture
+
+### Live Demo
+
+https://agriclimatepro.com
+
+### Repository
+
+https://github.com/LBenaduce/agri-climate-explorer
+
+---
+
+## Around The U.S — React Application
+
+Responsive social-style web application built with React and REST APIs.
+
+### Features
+
+- Profile editing
+- Avatar updates
+- Like / Unlike system
+- CRUD operations
+- Form validation
+- Responsive design
+
+### Repository
+
+https://github.com/LBenaduce/web_project_around_react
+
+---
+
+# Technical Skills
+
+## Front-End
+
+- React
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- JSON
+- Responsive Design
+- Vite
 
-### Front-End
-- React (Components, Props, Hooks)
-- State Management
-- Conditional Rendering
-- DOM Manipulation
-- Responsive Web Design
-- BEM Methodology
-- Form Validation
+## Back-End
 
-### Back-End Foundations
-- Node.js (Fundamentals)
-- REST API Integration
-- CRUD Operations
+- Node.js
 - Express.js
-- Authentication & Authorization Basics
+- REST APIs
+- Authentication
+- MongoDB Fundamentals
 
-### Tools
+## Tools
+
 - Git & GitHub
 - VS Code
-- npm
-- Vite
-- Chrome DevTools
 - Postman
+- Chrome DevTools
 
 ---
 
-## Featured Projects
+# GitHub Stats
 
-### Around The U.S — React Web Application
-A responsive social-style web application built with **React** and integrated with a **REST API backend**.
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LBenaduce&show_icons=true)
 
-Users can edit profile data, update avatars, create and delete cards, and like/unlike posts with real API persistence.
-
-**Key Features:**
-- Profile editing and avatar update
-- Add and remove cards with confirmation popup
-- Like / Unlike system connected to API
-- Client-side form validation
-- Full CRUD operations via REST API
-- Component-based architecture
-- Responsive layout
-
-**Repository:**  
-[web_project_around_react](https://github.com/LBenaduce/web_project_around_react)
-
-**Live Demo:**  
-[View Project](https://lbenaduce.github.io/web_project_around_react/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LBenaduce&layout=compact)
 
 ---
 
-### Around The U.S — Full-Stack API Project
-A full-stack application project with front-end and back-end integration, focused on authentication, protected routes, and API communication.
+# Contact
 
-**Repository:**  
-[web_project_api_full](https://github.com/LBenaduce/web_project_api_full)
+- LinkedIn:
+https://linkedin.com/in/luiz-benaduce
 
----
+- GitHub:
+https://github.com/LBenaduce
 
-## Contact
-
-- **LinkedIn:** [luiz-benaduce-014740275](https://www.linkedin.com/in/luiz-benaduce-014740275/)
-- **GitHub:** [LBenaduce](https://github.com/LBenaduce)
-- **WhatsApp (US):** +1 305 992-0833
-- **WhatsApp (BR):** +55 55 99935-7388
+- Email:
+agriclimate@proton.me
 
 ---
 
-## Technologies
+# Motto
 
-`React` `JavaScript` `HTML5` `CSS3` `Node.js` `Express.js` `Git` `GitHub` `Vite` `REST API`
-
----
-
-## GitHub Profile Extras
-
-You can improve this profile even more by adding:
-- GitHub Stats
-- Top Languages
-- Contribution Graph
-- Tech Badges
-- Featured Repositories
-
----
-
-> Building modern, responsive, and API-connected web experiences with clean code and continuous learning.
+Building modern, scalable, and climate-aware digital solutions for the future of agriculture.
