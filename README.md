@@ -104,13 +104,12 @@ https://github.com/LBenaduce/web_project_around_react
 
 ---
 
-# GitHub Stats
+ GitHub Stats
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LBenaduce&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LBenaduce&layout=compact)
-
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LBenaduce&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBenaduce&layout=compact&theme=transparent" />
+</p>
 
 # Contact
 
