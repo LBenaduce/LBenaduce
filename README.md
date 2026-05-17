@@ -104,13 +104,6 @@ https://github.com/LBenaduce/web_project_around_react
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LBenaduce&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBenaduce&layout=compact&theme=tokyonight" />
-</p>
-
 # Contact
 
 - LinkedIn:
