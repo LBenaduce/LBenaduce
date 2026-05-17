@@ -1,4 +1,4 @@
-# Luiz Benaduce
+# Luigi Benaduce
 
 ## Full-Stack Developer | Agronomist Engineer | React • Node.js • AgTech Intelligence
 
@@ -113,7 +113,8 @@ https://linkedin.com/in/luiz-benaduce
 https://github.com/LBenaduce
 
 - Email:
-agriclimate@proton.me
+  
+luigibenaduce@proton.me
 
 ---
 
