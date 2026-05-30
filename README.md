@@ -120,4 +120,4 @@ luigibenaduce@proton.me
 
 # Motto
 
-Committed. Unyielding. Beyond the Rubicon. Alea iacta est, Μολὼν λαβέ.
+Committed. Unyielding. Beyond the Rubicon.
