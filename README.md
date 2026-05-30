@@ -120,4 +120,4 @@ luigibenaduce@proton.me
 
 # Motto
 
-Building modern, scalable, and climate-aware digital solutions for the future of agriculture.
+Committed. Unyielding. Beyond the Rubicon. Alea iacta est, Μολὼν λαβέ.
