@@ -1,4 +1,4 @@
-# Luigi Benaduce
+# Luiz Benaduce
 
 ## Full-Stack Developer | Agronomist Engineer | React • Node.js • AgTech Intelligence
 
