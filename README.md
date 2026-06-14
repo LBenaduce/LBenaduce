@@ -112,8 +112,7 @@ https://linkedin.com/in/luiz-benaduce
 - GitHub:
 https://github.com/LBenaduce
 
-- Email:
-  
+- Email:  
 luigibenaduce@proton.me
 
 ---
