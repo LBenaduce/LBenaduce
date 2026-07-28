@@ -108,10 +108,6 @@ Full-stack climate intelligence and agricultural monitoring platform designed to
 
 https://agriclimatepro.com
 
-### Repository
-
-https://github.com/LBenaduce/agri-climate-explorer
-
 ---
 
 ## Around The U.S. — React Application
